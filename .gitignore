@@ -1,6 +1,4 @@
-# Generated outputs
-*.html
-*.png
+# Logs
 dashboard.log
 
 # Data files

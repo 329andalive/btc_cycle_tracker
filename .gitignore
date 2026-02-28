@@ -1,0 +1,13 @@
+# Generated outputs
+*.html
+*.png
+dashboard.log
+
+# Data files
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
